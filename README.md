@@ -1,4 +1,5 @@
 <img width="843" height="646" alt="image" src="https://github.com/user-attachments/assets/54af5111-7366-4a76-b2f9-9ba90aa3e22b" />
+
 Простой VPN-туннель и готовый WARP для работы Дискорда и Ютуба.
 Всё, что вам нужно
 1. Запустить установщик
